@@ -1,6 +1,6 @@
 
 
-/*function ListaEnlazada(){
+function ListaEnlazada(){
     this.head = null
 }
 
